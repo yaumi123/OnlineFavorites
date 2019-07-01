@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="org.springframework:spring-core:5.1.8.RELEASE" type="repository">
+    <properties maven-id="org.springframework:spring-core:5.1.8.RELEASE" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-5.1.8.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jcl-5.1.8.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-5.1.8.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jcl-5.1.8.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
