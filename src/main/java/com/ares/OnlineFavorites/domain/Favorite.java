@@ -18,7 +18,7 @@ import javax.persistence.*;
 public class Favorite {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Integer id;
+    private Integer favoriteId;
     @JsonProperty("Title")
     private String title;
     @JsonProperty("Url")
